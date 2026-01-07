@@ -1,3 +1,4 @@
+![App preview](image.png)
 # Game Search App
 
 This project is a full-stack web application built as an internship assignment.
