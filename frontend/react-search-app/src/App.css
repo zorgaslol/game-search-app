@@ -141,6 +141,7 @@ body {
   display: grid;
   gap: 18px;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  justify-content: center;
 }
 
 
@@ -160,6 +161,7 @@ body {
   position:relative;
   border:2px solid rgba(4, 247, 255, 0.774);
   background: rgba(10, 10, 30, 0.35);
+  max-width: 290px;
 }
 
 .imageWrap{
